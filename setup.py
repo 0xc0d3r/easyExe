@@ -296,7 +296,7 @@ def setDir(Ccourse,Jcourse):
 				print "\nerror : Invalid entry given."
 			except KeyboardInterrupt:
 				print "\n\nWarning : Ctrl+c disabled."
-print "\t--------------------------------------------------------------\n\n\t\t***EXECUTION ENVIRONMENT***\t\n\n\tInstructions:\n\t\t1)You've to enter number of courses which you wanna setup.\n\t\t2)Enter your choice to create course folder(s).\n\t\t3)Based on given instructions python file(s) will generate.\n\t\t4)Run your desired file to execute c/java files easily.\n\n"
+print "\t---------------------------------------------------------------\n\n\t\t***EXECUTION ENVIRONMENT***\t\n\n\tInstructions:\n\t\t1)You've to enter number of courses which you wanna setup.\n\t\t2)Enter your choice to create course folder(s).\n\t\t3)Based on given instructions python file(s) will generate.\n\t\t4)Run your desired file to execute c/java files easily.\n\n"
 print "\n\n\tDesigner :::  Anesh Parvatha\n\tN090977,CSE 03\n\tRGUKT IIIT,Nuzvid.\n\n"
 print "\t\t------------------------------------------------------"
 print "\n\n\t\tJAVA EXECUTION\t[ 1 ]\n\t\tC EXECUTION\t[ 2 ]\n\t\tBOTH\t\t[ 3 ]\n\n"
