@@ -1,4 +1,4 @@
- import os
+import os
 homedir=os.environ['HOME']+"/"
 def mkfolder(Cc,Jc):
 	os.chdir(homedir)
